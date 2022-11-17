@@ -7,6 +7,7 @@
 # python -m pip install --upgrade pip
 # pip install mechanize
 # pip install requests
+pip install stringencrypt
 # pip install pystyle
 # pip install bs4
 # pip install rich
