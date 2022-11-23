@@ -14,6 +14,10 @@
 - 💞️ cd MBF2 ...
 - 📫 python prohack.py ...
 
+``MBF2``
+
+![https://github.com/A-KENZI/SCP/blob/main/IMG_20221122_223121.jpg](https://github.com/A-KENZI/SCP/blob/main/IMG_20221122_223121.jpg)
+
 <!---
 A-KENZI/A-KENZI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
